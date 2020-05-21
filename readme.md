@@ -1,4 +1,6 @@
 
+修改支持Laravel 7.x
+
 ## Intro
 
 * 中文讨论请前往：https://phphub.org/topics/2301
